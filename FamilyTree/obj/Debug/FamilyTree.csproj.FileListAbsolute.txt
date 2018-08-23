@@ -1,0 +1,7 @@
+D:\Amit\FamilyTree\FamilyTree\bin\Debug\FamilyTree.exe.config
+D:\Amit\FamilyTree\FamilyTree\bin\Debug\FamilyTree.exe
+D:\Amit\FamilyTree\FamilyTree\bin\Debug\FamilyTree.pdb
+D:\Amit\FamilyTree\FamilyTree\obj\Debug\FamilyTree.csprojAssemblyReference.cache
+D:\Amit\FamilyTree\FamilyTree\obj\Debug\FamilyTree.csproj.CoreCompileInputs.cache
+D:\Amit\FamilyTree\FamilyTree\obj\Debug\FamilyTree.exe
+D:\Amit\FamilyTree\FamilyTree\obj\Debug\FamilyTree.pdb
